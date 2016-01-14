@@ -1,2 +1,2 @@
 # CSCI 3055U
-Programming Languages (CSCI 3055) course.
+Programming Languages (CSCI 3055) course. Will most likely be used for final project purposes.
