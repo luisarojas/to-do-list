@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0B2AC7181CB4C478000BCEFE"
-               BuildableName = "project.app"
-               BlueprintName = "project"
-               ReferencedContainer = "container:project.xcodeproj">
+               BlueprintIdentifier = "0BAB24971CB89243008C8817"
+               BuildableName = "proglang_project.app"
+               BlueprintName = "proglang_project"
+               ReferencedContainer = "container:proglang_project.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0B2AC72C1CB4C478000BCEFE"
-               BuildableName = "projectTests.xctest"
-               BlueprintName = "projectTests"
-               ReferencedContainer = "container:project.xcodeproj">
+               BlueprintIdentifier = "0BAB24AB1CB89243008C8817"
+               BuildableName = "proglang_projectTests.xctest"
+               BlueprintName = "proglang_projectTests"
+               ReferencedContainer = "container:proglang_project.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0B2AC7371CB4C478000BCEFE"
-               BuildableName = "projectUITests.xctest"
-               BlueprintName = "projectUITests"
-               ReferencedContainer = "container:project.xcodeproj">
+               BlueprintIdentifier = "0BAB24B61CB89243008C8817"
+               BuildableName = "proglang_projectUITests.xctest"
+               BlueprintName = "proglang_projectUITests"
+               ReferencedContainer = "container:proglang_project.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0B2AC7181CB4C478000BCEFE"
-            BuildableName = "project.app"
-            BlueprintName = "project"
-            ReferencedContainer = "container:project.xcodeproj">
+            BlueprintIdentifier = "0BAB24971CB89243008C8817"
+            BuildableName = "proglang_project.app"
+            BlueprintName = "proglang_project"
+            ReferencedContainer = "container:proglang_project.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0B2AC7181CB4C478000BCEFE"
-            BuildableName = "project.app"
-            BlueprintName = "project"
-            ReferencedContainer = "container:project.xcodeproj">
+            BlueprintIdentifier = "0BAB24971CB89243008C8817"
+            BuildableName = "proglang_project.app"
+            BlueprintName = "proglang_project"
+            ReferencedContainer = "container:proglang_project.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0B2AC7181CB4C478000BCEFE"
-            BuildableName = "project.app"
-            BlueprintName = "project"
-            ReferencedContainer = "container:project.xcodeproj">
+            BlueprintIdentifier = "0BAB24971CB89243008C8817"
+            BuildableName = "proglang_project.app"
+            BlueprintName = "proglang_project"
+            ReferencedContainer = "container:proglang_project.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

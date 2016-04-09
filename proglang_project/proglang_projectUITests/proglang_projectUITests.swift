@@ -1,14 +1,14 @@
 //
-//  projectUITests.swift
-//  projectUITests
+//  proglang_projectUITests.swift
+//  proglang_projectUITests
 //
-//  Created by Luisa Rojas on 2016-04-06.
+//  Created by Luisa Rojas on 2016-04-08.
 //  Copyright © 2016 lrg. All rights reserved.
 //
 
 import XCTest
 
-class projectUITests: XCTestCase {
+class proglang_projectUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

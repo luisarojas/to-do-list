@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  project
+//  proglang_project
 //
-//  Created by Luisa Rojas on 2016-04-06.
+//  Created by Luisa Rojas on 2016-04-08.
 //  Copyright © 2016 lrg. All rights reserved.
 //
 
