@@ -57,3 +57,21 @@ var myString = "my name is \(name1!)"
 var name2 = "name"
 
 var myString1 = "my name is \(dict[name2]!)"
+
+var time = 15
+
+if name == "Tom" && time < 12 {
+    print("Good morning, Tom", terminator:"")
+} else if name == "Tom" && time > 12 {
+    print("Good afternoon, Tom", terminator:"")
+} else {
+    print("This isn't Rob...", terminator:"")
+}
+
+if name == "Tom" || time < 20 {
+    print("One statement is true", terminator:"")
+}
+
+// mods
+var remainder = 9 % 2 // 1
+var remainder1 = 11 % 3 // 2
