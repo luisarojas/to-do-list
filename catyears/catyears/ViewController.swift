@@ -9,6 +9,22 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    @IBOutlet var age: UITextField!
+    @IBOutlet var answer: UILabel!
+    
+    @IBAction func findAge(sender: AnyObject) {
+        
+        var enteredAge = Int(age.text!)
+        
+        if enteredAge != nil {
+            var catYears = (enteredAge)! * 7
+            
+            answer.text = "\(catYears) years old!"
+        } else {
+            answer.text = "Please enter a valid number."
+        }
+    }
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -19,7 +35,5 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
-
 }
 

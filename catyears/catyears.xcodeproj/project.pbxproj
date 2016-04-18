@@ -14,6 +14,7 @@
 		0B699D611CBAF6F50014D025 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B699D5F1CBAF6F50014D025 /* LaunchScreen.storyboard */; };
 		0B699D6C1CBAF6F50014D025 /* catyearsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B699D6B1CBAF6F50014D025 /* catyearsTests.swift */; };
 		0B699D771CBAF6F50014D025 /* catyearsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B699D761CBAF6F50014D025 /* catyearsUITests.swift */; };
+		0B699D851CBAF8600014D025 /* maxresdefault.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0B699D841CBAF8600014D025 /* maxresdefault.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		0B699D721CBAF6F50014D025 /* catyearsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = catyearsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0B699D761CBAF6F50014D025 /* catyearsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = catyearsUITests.swift; sourceTree = "<group>"; };
 		0B699D781CBAF6F50014D025 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0B699D841CBAF8600014D025 /* maxresdefault.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = maxresdefault.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				0B699D581CBAF6F50014D025 /* ViewController.swift */,
 				0B699D5A1CBAF6F50014D025 /* Main.storyboard */,
 				0B699D5D1CBAF6F50014D025 /* Assets.xcassets */,
+				0B699D841CBAF8600014D025 /* maxresdefault.jpg */,
 				0B699D5F1CBAF6F50014D025 /* LaunchScreen.storyboard */,
 				0B699D621CBAF6F50014D025 /* Info.plist */,
 			);
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0B699D611CBAF6F50014D025 /* LaunchScreen.storyboard in Resources */,
+				0B699D851CBAF8600014D025 /* maxresdefault.jpg in Resources */,
 				0B699D5E1CBAF6F50014D025 /* Assets.xcassets in Resources */,
 				0B699D5C1CBAF6F50014D025 /* Main.storyboard in Resources */,
 			);

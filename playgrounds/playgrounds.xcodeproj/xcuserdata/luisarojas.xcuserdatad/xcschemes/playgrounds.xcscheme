@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0B699D521CBAF6F50014D025"
-               BuildableName = "catyears.app"
-               BlueprintName = "catyears"
-               ReferencedContainer = "container:catyears.xcodeproj">
+               BlueprintIdentifier = "0B5C12141CC4752500DF286A"
+               BuildableName = "playgrounds.app"
+               BlueprintName = "playgrounds"
+               ReferencedContainer = "container:playgrounds.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0B699D661CBAF6F50014D025"
-               BuildableName = "catyearsTests.xctest"
-               BlueprintName = "catyearsTests"
-               ReferencedContainer = "container:catyears.xcodeproj">
+               BlueprintIdentifier = "0B5C12281CC4752500DF286A"
+               BuildableName = "playgroundsTests.xctest"
+               BlueprintName = "playgroundsTests"
+               ReferencedContainer = "container:playgrounds.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0B699D711CBAF6F50014D025"
-               BuildableName = "catyearsUITests.xctest"
-               BlueprintName = "catyearsUITests"
-               ReferencedContainer = "container:catyears.xcodeproj">
+               BlueprintIdentifier = "0B5C12331CC4752500DF286A"
+               BuildableName = "playgroundsUITests.xctest"
+               BlueprintName = "playgroundsUITests"
+               ReferencedContainer = "container:playgrounds.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0B699D521CBAF6F50014D025"
-            BuildableName = "catyears.app"
-            BlueprintName = "catyears"
-            ReferencedContainer = "container:catyears.xcodeproj">
+            BlueprintIdentifier = "0B5C12141CC4752500DF286A"
+            BuildableName = "playgrounds.app"
+            BlueprintName = "playgrounds"
+            ReferencedContainer = "container:playgrounds.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0B699D521CBAF6F50014D025"
-            BuildableName = "catyears.app"
-            BlueprintName = "catyears"
-            ReferencedContainer = "container:catyears.xcodeproj">
+            BlueprintIdentifier = "0B5C12141CC4752500DF286A"
+            BuildableName = "playgrounds.app"
+            BlueprintName = "playgrounds"
+            ReferencedContainer = "container:playgrounds.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0B699D521CBAF6F50014D025"
-            BuildableName = "catyears.app"
-            BlueprintName = "catyears"
-            ReferencedContainer = "container:catyears.xcodeproj">
+            BlueprintIdentifier = "0B5C12141CC4752500DF286A"
+            BuildableName = "playgrounds.app"
+            BlueprintName = "playgrounds"
+            ReferencedContainer = "container:playgrounds.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
