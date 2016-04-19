@@ -22,12 +22,6 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="How many fingers do you think I'm holding up?" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uGV-q4-qqG">
-                                <rect key="frame" x="9" y="72" width="302" height="21"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                             <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="3cc-RS-7iu">
                                 <rect key="frame" x="112" y="137" width="97" height="30"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
@@ -54,10 +48,17 @@
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4c2-Tb-qEI">
                                 <rect key="frame" x="20" y="318" width="106" height="30"/>
+                                <state key="normal" title="Reset"/>
                                 <connections>
                                     <action selector="resetButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="aon-dy-Q1P"/>
                                 </connections>
                             </button>
+                            <textView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" fixedFrame="YES" bounces="NO" scrollEnabled="NO" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" delaysContentTouches="NO" canCancelContentTouches="NO" bouncesZoom="NO" text="How many fingers do you think I'm holding up?" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="0gZ-PY-G3h">
+                                <rect key="frame" x="39" y="62" width="242" height="55"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>

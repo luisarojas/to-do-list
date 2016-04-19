@@ -25,7 +25,7 @@ class ViewController: UIViewController {
 
         score.text = "Score: \(scoreCount)"
     
-        if guessedInt != nil {
+        if guessedInt != nil && guessedInt >= 0 && guessedInt <= 10 {
             // user guessed correctly
             if guessedInt == randomNum {
                 
@@ -53,6 +53,7 @@ class ViewController: UIViewController {
         score.text = "Score: \(scoreCount)"
     
     }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
