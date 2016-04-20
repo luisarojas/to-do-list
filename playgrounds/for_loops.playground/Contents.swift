@@ -47,3 +47,4 @@ while index < arr.count { //count returns the number of items in the array
     
     index += 1
 }
+
