@@ -27,7 +27,7 @@ class ViewController: UIViewController, UITableViewDelegate { //makes the view c
     func tableView(tableView:UITableView, cellForRowAtIndexPath indexPath:NSIndexPath) -> UITableViewCell {
         
         //create a cell to return
-        // use let when the variable wont be changed. could use var too.
+        //use let when the variable wont be changed (constant). could use var too.
         let cell = UITableViewCell(style: UITableViewCellStyle.Default , reuseIdentifier: "Cell")
         
         cell.textLabel?.text = cellContent[indexPath.row] // current row

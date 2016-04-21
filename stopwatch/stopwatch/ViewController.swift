@@ -28,7 +28,7 @@ class ViewController: UIViewController {
         timer.invalidate()
         
         pauseButton.enabled = false
-        stopButton.enabled = false
+        stopButton.enabled = true
         playButton.enabled = true
     }
     

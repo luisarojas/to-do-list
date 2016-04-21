@@ -17,7 +17,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
         
         var enteredAge = Int(age.text!)
         
-        if enteredAge != nil {
+        if enteredAge != nil && enteredAge < 50 && enteredAge > 0 {
             var catYears = (enteredAge)! * 7
             
             answer.text = "\(catYears) years old!"
@@ -30,7 +30,6 @@ class ViewController: UIViewController, UITextFieldDelegate {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         self.age.delegate = self
-
     }
 
     override func didReceiveMemoryWarning() {
