@@ -59,7 +59,6 @@ class ViewController: UIViewController, UITextFieldDelegate {
         
         // the view controller is responsible for that particular text field
         self.inputNumber.delegate = self
-    
     }
 
     override func didReceiveMemoryWarning() {
