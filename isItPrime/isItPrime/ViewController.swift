@@ -21,15 +21,17 @@ class ViewController: UIViewController, UITextFieldDelegate {
         // need to unwrap for every time we need to use this variable
         var num = Int(inputNumber.text!)
         
+        var unwrappedNum = 0
+        
         if inputNumber != nil {
             
-            var unwrappedNum = num!
+            unwrappedNum = num!
             
             if unwrappedNum == 1 {
                 
                 isPrime = false
                 
-            } else if unwrappedNum != 2 {
+            } else if unwrappedNum != 2 && unwrappedNum < 10000 {
                 
                 for var i = 2; i < unwrappedNum; i += 1 {
                     
@@ -43,7 +45,9 @@ class ViewController: UIViewController, UITextFieldDelegate {
             resultLabel.text = "Please enter a number."
         }
         
-        if isPrime == true {
+        if unwrappedNum > 10000{
+            resultLabel.text = "Please enter a smaller number..."
+        } else if isPrime == true {
             
             resultLabel.text = "Yep! \(num!) is prime."
             
