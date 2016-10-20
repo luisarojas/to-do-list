@@ -1,2 +1,3 @@
 # CSCI3055
-Assignments and in-class projects
+
+A "to-do" list project using Swift and Xcoode.
