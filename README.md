@@ -1,4 +1,4 @@
-# CSCI3055
+# to-do-list-app
 
 A "to-do" list project using Swift and Xcoode.
 
